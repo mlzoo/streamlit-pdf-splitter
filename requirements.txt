@@ -1,4 +1,2 @@
 PyPDF2
 zipfile
-tempfile
-streamlit

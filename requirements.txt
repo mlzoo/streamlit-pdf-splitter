@@ -1,2 +1,4 @@
-import PyPDF2
+PyPDF2
 zipfile
+tempfile
+streamlit
